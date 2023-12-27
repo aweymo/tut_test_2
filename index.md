@@ -1,5 +1,5 @@
 ---
-title: Lesson Template
+title: Testing testing
 layout: lesson-content
 ---
 
