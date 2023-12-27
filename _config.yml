@@ -22,7 +22,7 @@ description: "Instruction Basics Test Site"
 # keywords for meta tags used by search engines
 keywords: "workshops, websites, gh-pages, jekyll"
 # image for meta tags, will appear when sharing link on social media
-featured-image: "/images/letras_25.jpeg"
+featured-image: "/images/letras_25_1.jpeg"
 
 # author name, displayed in credits
 author: aweymo
@@ -46,7 +46,7 @@ header-text-color: 69d2cd
 # breadcrumbs-background: 
 # breadcrumbs-text-color: 
 active-nav-color: b9f1d6
-link-color:294380
+# link-color: 
 # next-button-color:
 text-color: 0d0f36
 # base-font-size:
