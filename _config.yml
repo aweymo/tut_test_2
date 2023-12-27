@@ -11,23 +11,23 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Learn-Static Lesson Template
+title: Instruction Basics Test Site
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: code-slash
 # description appears in sidebar footer
-description: "Create a lesson website with markdown"
+description: "Instruction Basics Test Site"
 # keywords for meta tags used by search engines
 keywords: "workshops, websites, gh-pages, jekyll"
 # image for meta tags, will appear when sharing link on social media
-featured-image: "/images/uidaho-workshop.jpg"
+featured-image: "/images/letras_25.jpeg"
 
 # author name, displayed in credits
-author: evanwill
+author: aweymo
 # year or date published, displayed in sidebar
-publication_year: 2022
+publication_year: 2023
 # location of code, the full url to your github repository
 source-code: https://github.com/learn-static/lesson-template
 # content license (typically "cc by-sa"), displayed in sidebar
@@ -41,14 +41,14 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # leave these commented out or blank for defaults.
 # these options tweak CSS, so should be valid CSS values.
 #
-# header-background: 
-# header-text-color: 
+header-background: f1f6ce
+header-text-color: 69d2cd
 # breadcrumbs-background: 
 # breadcrumbs-text-color: 
-# active-nav-color: 
-# link-color:
+active-nav-color: b9f1d6
+link-color:294380
 # next-button-color:
-# text-color: 
+text-color: 0d0f36
 # base-font-size:
 
 ##########
