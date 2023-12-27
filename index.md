@@ -9,7 +9,7 @@ layout: lesson-content
 
 __Add your workshop abstract here!__
 
-<p style="text-align: right; color: #ff2600ff;">Learn how to create a super quick easy website for a workshop by writing a few markdown files!</p>
+<p style="text-align: left; color: #ff2600ff;">Learn how to create a super quick easy website for a workshop by writing a few markdown files!</p>
 
 
 {% include toc.html %}
