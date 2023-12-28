@@ -1,4 +1,5 @@
 /* tweak defaults if variables set */
+
 body {
     @if variable-exists(base-font-size) { font-size: $base-font-size; }
     @if variable-exists(text-color) { color: $text-color; }

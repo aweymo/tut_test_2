@@ -14,6 +14,8 @@ $active-nav-color: {{ site.active-nav-color | default: '#d2f4ea' }};
 {% if site.text-color %}$text-color: {{ site.text-color }};{% endif %}
 $base-font-size: {{ site.base-font-size | default: '1.1rem' }};
 
+$example: #cdcdcd;
+
 // Import partials.
 @import
   "template", "custom"

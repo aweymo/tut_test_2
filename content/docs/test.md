@@ -4,11 +4,21 @@ nav_order: 4
 title: Test
 topics: Hot Dogs; Sammiches
 ---
-Bee bah ges are written in markdown and can be enhanced using Liquid includes that are packaged with the template.
-Start by editing the examples or creating new files in the "content" folder.
+Bee bah ges 
 
-Each content page will be one file inside the "content" folder of your project.
-The page *stubs* have the extension `.md` (meaning Markdown) and can be organized further into folders inside the "content" folder if desired.
+> [!NOTE] Note  
+>> [!tldr] Summary  
+>>> [!Infor] Information  
+>>>> [!Tip] Tip  
+>>>>> [!Done] Done  
+>>>>>> [!FAQ] Question  
+>>>>>>> [!Warning] Warning  
+>>>>>>>> [!Fail] Fail  
+HI
+>>>>>>>>> [!error] Error  
+>>>>>>>>>> [!bug] Bug  
+>>>>>>>>>>> [!example] Example  
+>>>>>>>>>>>> [!Cite] Quote
 
 ## Front Matter
 
