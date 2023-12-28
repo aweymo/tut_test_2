@@ -12,9 +12,13 @@
 
     {{ content }}
 
+    {% include card.html img="letras_25_1.jpeg" text="run out of ideas" header="stealin code" width=50 %}
+
     {% include template/foot.html %}
 
-    {% include figure.html img="letras_25_1.jpeg" class="float-start" alt="stealing code" caption="Stealing Code" width="75%" %}
+    {% if page.topics %}<div class="ms-3 mb-3 border-bottom">Topics: <strong>{{ page.topics }}</strong></div>{%- endif -%}
+
+    {% if page.description %}<div class="ms-3 mb-3 border-bottom">{{ page.description | markdownify }}</div>{%- endif -%}
 
   </body>
 
